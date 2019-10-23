@@ -1,6 +1,3 @@
-const end = 1;
-const tmp = 2;
-const test = 3;
 // cherry1
 const cherry = "cherry";
 // cherry2
@@ -8,4 +5,4 @@ const cherry2 = "cherry2";
 // bug fix1
 const bugfix = "01";
 // bug fix2
-const bugfix2 = "01";
+const bugfix2 = "02";
