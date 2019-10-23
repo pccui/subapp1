@@ -6,4 +6,6 @@ const cherry = "cherry";
 // cherry2
 const cherry2 = "cherry2";
 // bug fix1
-cont bugfix = "01";
+cosnt bugfix = "01";
+// bug fix2
+const bugfix2 = "01";
