@@ -1,5 +1,5 @@
 // cherry1
-const cherry = "cherry";
+const cherry = "cherry1";
 // cherry2
 const cherry2 = "cherry2";
 // bug fix1
