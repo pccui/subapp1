@@ -5,7 +5,4 @@ const test = 3;
 // master
 const master1 = 111;
 // feature1
-<<<<<<< HEAD
-=======
 let f1;
->>>>>>> feature1
